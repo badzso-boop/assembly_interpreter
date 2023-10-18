@@ -1,0 +1,15 @@
+D:\Egyetem\1045 - 1320 Csüt. PmP gyakorlat\5. hazifeladat\PMPHF005_NLUG4F\PMPHF005_NLUG4F\bin\Debug\net6.0\PMPHF005_NLUG4F.exe
+D:\Egyetem\1045 - 1320 Csüt. PmP gyakorlat\5. hazifeladat\PMPHF005_NLUG4F\PMPHF005_NLUG4F\bin\Debug\net6.0\PMPHF005_NLUG4F.deps.json
+D:\Egyetem\1045 - 1320 Csüt. PmP gyakorlat\5. hazifeladat\PMPHF005_NLUG4F\PMPHF005_NLUG4F\bin\Debug\net6.0\PMPHF005_NLUG4F.runtimeconfig.json
+D:\Egyetem\1045 - 1320 Csüt. PmP gyakorlat\5. hazifeladat\PMPHF005_NLUG4F\PMPHF005_NLUG4F\bin\Debug\net6.0\PMPHF005_NLUG4F.dll
+D:\Egyetem\1045 - 1320 Csüt. PmP gyakorlat\5. hazifeladat\PMPHF005_NLUG4F\PMPHF005_NLUG4F\bin\Debug\net6.0\PMPHF005_NLUG4F.pdb
+D:\Egyetem\1045 - 1320 Csüt. PmP gyakorlat\5. hazifeladat\PMPHF005_NLUG4F\PMPHF005_NLUG4F\obj\Debug\net6.0\PMPHF005_NLUG4F.csproj.AssemblyReference.cache
+D:\Egyetem\1045 - 1320 Csüt. PmP gyakorlat\5. hazifeladat\PMPHF005_NLUG4F\PMPHF005_NLUG4F\obj\Debug\net6.0\PMPHF005_NLUG4F.GeneratedMSBuildEditorConfig.editorconfig
+D:\Egyetem\1045 - 1320 Csüt. PmP gyakorlat\5. hazifeladat\PMPHF005_NLUG4F\PMPHF005_NLUG4F\obj\Debug\net6.0\PMPHF005_NLUG4F.AssemblyInfoInputs.cache
+D:\Egyetem\1045 - 1320 Csüt. PmP gyakorlat\5. hazifeladat\PMPHF005_NLUG4F\PMPHF005_NLUG4F\obj\Debug\net6.0\PMPHF005_NLUG4F.AssemblyInfo.cs
+D:\Egyetem\1045 - 1320 Csüt. PmP gyakorlat\5. hazifeladat\PMPHF005_NLUG4F\PMPHF005_NLUG4F\obj\Debug\net6.0\PMPHF005_NLUG4F.csproj.CoreCompileInputs.cache
+D:\Egyetem\1045 - 1320 Csüt. PmP gyakorlat\5. hazifeladat\PMPHF005_NLUG4F\PMPHF005_NLUG4F\obj\Debug\net6.0\PMPHF005_NLUG4F.dll
+D:\Egyetem\1045 - 1320 Csüt. PmP gyakorlat\5. hazifeladat\PMPHF005_NLUG4F\PMPHF005_NLUG4F\obj\Debug\net6.0\refint\PMPHF005_NLUG4F.dll
+D:\Egyetem\1045 - 1320 Csüt. PmP gyakorlat\5. hazifeladat\PMPHF005_NLUG4F\PMPHF005_NLUG4F\obj\Debug\net6.0\PMPHF005_NLUG4F.pdb
+D:\Egyetem\1045 - 1320 Csüt. PmP gyakorlat\5. hazifeladat\PMPHF005_NLUG4F\PMPHF005_NLUG4F\obj\Debug\net6.0\PMPHF005_NLUG4F.genruntimeconfig.cache
+D:\Egyetem\1045 - 1320 Csüt. PmP gyakorlat\5. hazifeladat\PMPHF005_NLUG4F\PMPHF005_NLUG4F\obj\Debug\net6.0\ref\PMPHF005_NLUG4F.dll
